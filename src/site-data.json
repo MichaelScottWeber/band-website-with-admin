@@ -1,0 +1,15 @@
+{
+  "navigation": {
+    "links": [
+      { "name": "Home", "url": "/" },
+      { "name": "Music", "url": "/#music" },
+      { "name": "Shows", "url": "/#shows" },
+      { "name": "Merch", "url": "/#merch" }
+    ],
+    "social": [
+      { "name": "Instagram", "url": "/" },
+      { "name": "Facebook", "url": "/" },
+      { "name": "Youtube", "url": "/" }
+    ]
+  }
+}
