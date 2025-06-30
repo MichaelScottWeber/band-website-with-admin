@@ -47,6 +47,7 @@ header {
   justify-content: start;
   padding: 0 24px;
   gap: 24px;
+  margin: 0 auto;
 }
 
 nav {

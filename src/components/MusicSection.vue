@@ -9,6 +9,9 @@
         <a href=""> <AppleMusicIcon size="60px" /> </a>
       </li>
       <li>
+        <a href=""> <BandcampIcon size="60px" /> </a>
+      </li>
+      <li>
         <a href="">
           <AmazonIcon size="60px" />
         </a>
@@ -27,6 +30,7 @@ import SpotifyIcon from './icons/SpotifyIcon.vue';
 import AppleMusicIcon from './icons/AppleMusicIcon.vue';
 import AmazonIcon from './icons/AmazonIcon.vue';
 import YoutubeIcon from './icons/YoutubeIcon.vue';
+import BandcampIcon from './icons/BandcampIcon.vue';
 </script>
 
 <style scoped></style>

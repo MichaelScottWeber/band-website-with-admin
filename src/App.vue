@@ -18,4 +18,9 @@ import EmailSignup from './components/EmailSignup.vue';
   </main>
 </template>
 
-<style scoped></style>
+<style scoped>
+main {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+</style>
